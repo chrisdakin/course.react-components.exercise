@@ -47,5 +47,3 @@ class GroceryList extends React.Component {
 ReactDOM.render(
   <GroceryList groceries={['cucumber', 'banana']}/>, document.getElementById('app')
 );
-=======
-// TODO
